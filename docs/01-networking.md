@@ -1,26 +1,4 @@
-<style>
-body {
-  font-family: Arial, sans-serif;
-}
-code {
-  background: #f1f5f9;
-  padding: 3px 6px;
-}
-pre {
-  background: #f8fafc;
-  padding: 10px;
-}
-img {
-  max-width: 100%;
-  border: 1px solid #ccc;
-  margin: 10px 0;
-}
-.note {
-  border-left: 4px solid #f59e0b;
-  padding: 10px;
-  background: #fffbeb;
-}
-</style>
+
 
 <h1>Networking Setup (NAT Network)</h1>
 
