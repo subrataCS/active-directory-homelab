@@ -49,8 +49,8 @@ machines in the lab.
 
 <h2>Verify Connectivity</h2>
 <pre><code>ipconfig
-ping 8.8.8.8
-ping 10.0.2.5
+ping 8.8.8.8 or 
+ping any vm like -  10.0.2.5
 </code></pre>
 
 <div class="note">
